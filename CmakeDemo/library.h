@@ -1,0 +1,6 @@
+#ifndef CMAKEDEMO_LIBRARY_H
+#define CMAKEDEMO_LIBRARY_H
+
+void hello();
+
+#endif //CMAKEDEMO_LIBRARY_H
